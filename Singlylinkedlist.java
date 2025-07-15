@@ -86,7 +86,7 @@ public class Singlylinkedlist{
     }
     public static void main(String[] args){
         
-        SLL list = new SLL();
+        Singlylinkedlist list = new Singlylinkedlist();
         list.InsertAtBeginning(100);
         list.InsertAtBeginning(200);
         list.InsertAtBeginning(300);
